@@ -11,3 +11,8 @@
 **bold text** or __bold text__
 
 *Italicized text* or _Italicized text_
+
+- First item
+- Second item
+  - Indented item
+- Third item
